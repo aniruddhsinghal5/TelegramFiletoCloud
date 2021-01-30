@@ -63,8 +63,8 @@ async def mixFileup(file, client, bot, s_time):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🗂 SOURCE",
-                        url = "https://github.com/Abhijith-cloud/"
+                        "🗂 DROP A REVIEW",
+                        url = "https://t.me/aniruddhsinghal5"
                     )
                 ]])
             )
